@@ -1,5 +1,5 @@
 module.exports = {
-	prefix:"s!",
+	prefix:"=",
 	admin: ["531427939158327319"],
 	token: "NTc4OTY3MjA1NTM0NzYwOTYw.XTWqmg.Rkb0gK8sjwKtCbc9vBPC49MuPao ",
 	show_invite: false,
